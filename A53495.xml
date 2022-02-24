@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Twenty precepts, or, rules of advice to a son: by a late eminent lawyer.</title>
+            <author>Osborne, Francis, 1593-1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53495</idno>
+            <idno type="STC">Wing O523A</idno>
+            <idno type="STC">ESTC R222617</idno>
+            <idno type="EEBO-CITATION">99833770</idno>
+            <idno type="PROQUEST">99833770</idno>
+            <idno type="VID">38248</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38248)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1784:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Twenty precepts, or, rules of advice to a son: by a late eminent lawyer.</title>
+                  <author>Osborne, Francis, 1593-1659.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for B. Heath,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A late eminent lawyer = Francis Osborne.</note>
+                  <note>Imperfect; cropped, affecting text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Young men --  Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:38248:1"/>
+            <pb facs="tcp:38248:1" rendition="simple:additions"/>
+            <head>TWENTY PRECEPTS, OR, <hi>Rules of Advice to a Son:</hi>
+            </head>
+            <byline>By a late Eminent LAWYER.</byline>
+            <p n="1">1. I Adviſe you not to come too ſoon from the Univerſity, and alſo to make ſome inſpection into Phyſick, and the Law, aſwell as Divinity, for they will contri<g ref="char:EOLhyphen"/>bute to make your Company acceptable where<g ref="char:EOLhyphen"/>ever you come. But proſecute not, beyond a ſuperficial knowledge, any Learning that moves upon no ſtronger Legs than the tottering Baſis of Conjecture is able to afford it.</p>
+            <p n="2">2. No ſtudy is worth a Mans whole imploy<g ref="char:EOLhyphen"/>ment, that comes not accompanied with Profit, or ſuch unanſwerable Reaſons, as are able to anſwer and ſilence all future debate, not to be found out of the Mathematicks, the Queen of Truth, that impoſeth nothing upon her Subjects, but what ſhe proves due to belief by infallible Demonſtration. The only knowledge we can gain on Earth, likely to attend us to Heaven.</p>
+            <p n="3">3. Huge Volumes may proclaim plenty of Labour and Invention, but afford leſs of what is delicate, ſavoury, and well concocted, than leſſer pieces: Humane ſufficiency being too nar<g ref="char:EOLhyphen"/>row to inform with the pure ſoul of Reaſon ſuch vaſt Bodies. You may gain more natural and uſeful Knowledge, by being converſant in the Speeches, Declarations, and Tranſactions oc<g ref="char:EOLhyphen"/>caſioned by the late unhappy Wars, than is or<g ref="char:EOLhyphen"/>dinarily to be found in the mouldy Records of Antiquity. The Underſtanding is nouriſhed more by a few Books well Studied, than by great numbers curiouſly run over, as is the Pra<g ref="char:EOLhyphen"/>ctice of moſt Students.</p>
+            <p n="4">4. Let not an over-paſſionate proſecution of Learning draw you from making an honeſt im<g ref="char:EOLhyphen"/>provement of your Eſtate, as ſuch do, who are better read in the bigneſs of the whole Earth, than that little ſpot left them by their Ance-ſtors for their ſupport.</p>
+            <p n="5">5. Be ſure never to lend your Money upon the Publick Faith, for he that does ſo, becomes ſecurity for his own Money; and can blame no body more than himſelf if never paid: Com<g ref="char:EOLhyphen"/>mon Debts like Common Lands lying moſt neg<g ref="char:EOLhyphen"/>lected.</p>
+            <p n="6">6. Honeſty treats with the World upon ſuch vaſt diſadvantage, that a Pen is often as uſe<g ref="char:EOLhyphen"/>ful to defend you as a Sword, by ma<g ref="char:EOLhyphen"/>king Writing the Witneſs of all your Con<g ref="char:EOLhyphen"/>tracts: For where Profit appears, it doth com<g ref="char:EOLhyphen"/>monly cancel all the Bands of Friendſhip, Re<g ref="char:EOLhyphen"/>ligion, and the memory of any thing that can produce no other Regiſter than what is Verbal. Meaſure the End of all Counſels, though ut<g ref="char:EOLhyphen"/>tered by never ſo intimate a Friend.</p>
+            <p n="7">7. When you are inclined to enter into the ſtate of Marriage, make not a celebrated Beau<g ref="char:EOLhyphen"/>ty the Object of your Choice, unleſs you are ambitious of rendring your Houſe as populous as a Confectioners Shop; to which the gaudy Waſps no leſs than the liquoriſh Flies, make it their buſineſs to reſort, in hope of obtaining a Lick at your Hony-pot; which though bound up with the ſtrongeſt Obligations; yet Feminine Veſſels are obnoxious to ſo many Frailties, as they can hardly bear without breaking; ſuch Pride and Content they naturally take in ſeeing themſelves adored. Marriage is moſt freed from ſuch inconveniencies as may obſtruct Fell<g ref="char:EOLhyphen"/>city, when accompanied with a good Eſtate; therefore take the true extent of her Eſtate be<g ref="char:EOLhyphen"/>fore you entail your ſelf upon the Owner. And in this common Fame is not to be truſted, which for the moſt part dilates a Portion be<g ref="char:EOLhyphen"/>yond its natural bounds, proving alſo not ſel<g ref="char:EOLhyphen"/>dom litigious, and that given by Will queſtio<g ref="char:EOLhyphen"/>nable; by which Husbands are tyed to a Black-Box, more miſerable than that of <hi>Pandora.</hi> Yet take one who thinks her ſelf rather beneath than above you in Birth; ſince Honourable Perſons, as is reported of Eagles Feathers in a Bed, con<g ref="char:EOLhyphen"/>ſume all not of the ſame Plume. Riches were in a like predicament in relation to Pride, but eaſier paſſed by, becauſe beſt able to bear the Charges of her own Folly; whereas lean Honour, like <hi>Pharaoh</hi>'s Kine, devours the Gentry with whom they match, by multiplying the quantity of their Expences.</p>
+            <p n="8">8. If you happen to Travel, let not the Ir<g ref="char:EOLhyphen"/>religion of any place breed in you a neglect of Divine Duties; remembring God heard the Prayers of <hi>Daniel</hi> in <hi>Babylon,</hi> with the ſame at<g ref="char:EOLhyphen"/>tention he gave to <hi>David</hi>'s in <hi>Sion.</hi> Shun all Di<g ref="char:EOLhyphen"/>ſputes, but eſpecially concerning Religion; be<g ref="char:EOLhyphen"/>cauſe that which commands in chief, though falſe and erroneous, will, like a Cock on's own Dunghill, line her Arguments with force, and drive the Stranger out of the Pit with inſigni<g ref="char:EOLhyphen"/>ficant clamours.</p>
+            <p n="9">
+               <pb facs="tcp:38248:2"/>9. A multitude m<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>amed under a Religious pretence, is at firſt as unſafely oppoſed as join<g ref="char:EOLhyphen"/>ed with; reſembling Bears exaſperated by the cry of their Whelps, and do not ſeldom, if un<g ref="char:EOLhyphen"/>extinguiſhed by hope or delays, conſume all be<g ref="char:EOLhyphen"/>fore them, to the very thing they intend to pre<g ref="char:EOLhyphen"/>ſerve. The Example of <hi>Brutus</hi> rather than <hi>Cato</hi> is to be followed in bad times; it being ſafer to be patient than active; or appear a Fool than a Malecontent. Make not the Law, aſſigned for a Buckler to defend your ſelf, a Sword to hurt others. Be not the Pen or Mouth of a Multitude congregated by the ging<g ref="char:EOLhyphen"/>ling of their Fetters, leſt a Pardon or Compli<g ref="char:EOLhyphen"/>ance knock them off, and leave you as the ſoul of that wicked and deformed Body, hanging in the Hell of the Law, or you be juſtly left to the vengeance of an exaſperated Power. If Autho<g ref="char:EOLhyphen"/>rity requires an acknowledgment from you, give it with all readineſs; and let not the Ex<g ref="char:EOLhyphen"/>ample of a few Fools tempt you to diſpute the matter with thoſe, under whom the diſpoſure of your perſon doth wholly remain.</p>
+            <p n="10">10. Look not upon it as any diſparagement to your diſcretion or birth, to give Honour to New Families; for it cannot be denied but that they have aſcended by the like ſteps as thoſe that have the repute of Ancient. New being a Term only reſpecting us, not the World; for what is now, was before, and will be when we are gone.</p>
+            <p n="11">11. It is truly ſaid that War follows Peace, and Peace War, as Summer doth Winter, and foul Weather fair: And none are ground more in this Mill of Viciſſitudes, than ſuch obſtinate Fools as glory in the repute of State-martyrs af<g ref="char:EOLhyphen"/>ter they are dead; which concerns them leſs than what was ſaid a thouſand years before they were born.</p>
+            <p n="12">12. Be not liquoriſh after Fame, found by Experience to carry a Trumpet, that doth for the moſt part congregate more Enemies than Friends. The conſideration of the inconſtan<g ref="char:EOLhyphen"/>cy of Common Applauſe, and that many have had their Fame broken upon the ſame Wheel that raiſed it, and puffed out by the ſame Breath that kindled the firſt report of it, ſhould admoniſh you not to be elevated with the ſmiles, nor dejected at the frowns of that gaudy God<g ref="char:EOLhyphen"/>deſs, formed out of no more ſollid matter than the Foam of the Multitude.</p>
+            <p n="13">13. Be not perſwaded by any above you, to bear a part in the carrying on of any Deſign whereby you may run the hazzard of falling un<g ref="char:EOLhyphen"/>der the puniſhment of the Law; for if you miſ<g ref="char:EOLhyphen"/>carry, you will meet with no better aſſiſtance or commiſeration, (even by thoſe that put you up<g ref="char:EOLhyphen"/>on it) than the imputation of Folly, and want of diſcretion in the management.</p>
+            <p n="14">14. Write not the Faults of Perſons near the Throne, in any Nation where you reſide, leſt your Letters ſhould be intercepted, and you ſent out of the World before your time. But re<g ref="char:EOLhyphen"/>ſerve ſuch diſcourſe for the <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> or your Maſter, into which you muſt pour it with more Caution than Malice; leſt it ſhould be diſcover<g ref="char:EOLhyphen"/>ed, as it is odds but it will, and then the next endeavour is revenge. It is an office unbecom<g ref="char:EOLhyphen"/>ing a Gentleman, to be an Intelligencer, which in real Truth is no better than a Spie; who are often brought to the Torture, and dye mi<g ref="char:EOLhyphen"/>ſerably, though no words are made of it, being an uſe connived at by ſome Princes.</p>
+            <p n="15">15. As for your Religion, I can approve of no Doctrin for Magiſterial Divinity, but that which is found floating in the unqueſtioned ſenſe of the Scriptures; but adviſe you to follow that of the Reformation, (<hi>viz.</hi> The Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> as by Law Eſtabliſhed) as moſt conformable to the Duty we owe to God and the Magiſtrate. The Schiſmatick is ſo fiery that he cannot laſt long unconſumed, being ready upon the leaſt ad<g ref="char:EOLhyphen"/>vantage to melt all into Sedition, not ſparing to burn the Fingers of Government longer than they ſhower down Offices and Preferments upon him.</p>
+            <p n="16">16. As for your Converſe, deſpiſe none for meanneſs of Blood, yet do not ordinarily make them your Companions, for debaſing your own, unleſs you find them clarified by ex<g ref="char:EOLhyphen"/>cellent Parts, or guilded by Fortune or Power: <hi>Solomon</hi> having ſent the Sluggard to the Piſmire, to learn induſtry; and to the living Dog rather than to the dead Lyon for Protecti<g ref="char:EOLhyphen"/>on.</p>
+            <p n="17">17. When you ſpeak to any, (eſpecially of Quality) look them full in the Face, other Ge<g ref="char:EOLhyphen"/>ſtures bewraying want of Breeding, Confidence, or Honeſty; dejected Eyes confeſſing, to moſt judgments, Guilt or Folly.</p>
+            <p n="18">18. Live ſo frugally, that you may reſerve ſomething to enable you to grapple with any future contingency<g ref="char:punc">▪</g> And provide in Youth, ſince fortune hath this property with other com<g ref="char:EOLhyphen"/>mon Miſtreſſes, that ſhe deſerts Age, eſpecially in the Company of want.</p>
+            <p n="19">19. Though it may ſute no leſs with your years than mine that adviſe you, to follow ſuch Faſhions in Apparel, as are in uſe as well at home as abroad, thoſe being leaſt gazed on that go as moſt men do: Yet it cannot be juſtified before the Face of Diſcretion, or the Charity due to your own Country-men, to eſteem no Doublet well made, nor Glove worth wearing, that hath not paſſed the hands of a <hi>French</hi> Tay<g ref="char:EOLhyphen"/>lor, or retains not the ſcent of a <hi>Spaniſh</hi> Perfu<g ref="char:EOLhyphen"/>mer. A vanity found incident to the People of <hi>England.</hi>
+            </p>
+            <p n="20">20. All your days ſerve God with all the re<g ref="char:EOLhyphen"/>verence you are able, and do all the good you can, making as little unneceſſary work for Repentance as is poſſible. And the Mercy of our Heavenly Father ſupply all your Defects in the Son of his Love.</p>
+            <closer>Amen.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>B. Heath,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
